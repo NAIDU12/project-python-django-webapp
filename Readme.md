@@ -1,6 +1,6 @@
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| Python | Django | Azure Web App, Virtual Machine| |
+| Python | Django | Azure Web App, e| |
 
 
 # Python Django web application
