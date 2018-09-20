@@ -2,7 +2,7 @@
 | -------- | -------- |--------|--------|
 | Python | Django | Azure Web App, e| |
 
-
+Hii
 # Python Django web application
 
 Sample Python Django web application built using Visual Studio 2017.
